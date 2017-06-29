@@ -1,6 +1,8 @@
 # Patterns in csharp
 (Living  examples of design patterns)
 
+Exemplos inspirados pelo site [DoFactory](http://www.dofactory.com/)
+
 ## :arrow_forward: Factory-Pattern 
 
 ![alt text](https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg)
