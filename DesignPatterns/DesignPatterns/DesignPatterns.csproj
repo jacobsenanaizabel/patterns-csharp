@@ -43,6 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FactoryDemo\BibliographyPage.cs" />
+    <Compile Include="FactoryDemo\ConclusionPage.cs" />
+    <Compile Include="FactoryDemo\DocumentFactory.cs" />
+    <Compile Include="FactoryDemo\EducationPage.cs" />
+    <Compile Include="FactoryDemo\ExperiencePage.cs" />
+    <Compile Include="FactoryDemo\IntroductionPage.cs" />
+    <Compile Include="FactoryDemo\Page.cs" />
+    <Compile Include="FactoryDemo\Report.cs" />
+    <Compile Include="FactoryDemo\ResultsPage.cs" />
+    <Compile Include="FactoryDemo\ResumeConcrete.cs" />
+    <Compile Include="FactoryDemo\SkillsPage.cs" />
+    <Compile Include="FactoryDemo\SummaryPage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StrategyDemo\ISortStrategy.cs" />
